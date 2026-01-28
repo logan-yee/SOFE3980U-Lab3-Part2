@@ -1,6 +1,9 @@
-﻿C:\Users\logan\Documents\Soft
-Qualities
--
-SOFE3290\Labs\Lab
-1\BinaryCalculator\target
+# Maven / Java
+target/
+*.class
+*.jar
+
+# If you only want to ignore the one project's target:
+BinaryCalculator/target/
+
 
