@@ -3,7 +3,8 @@ target/
 *.class
 *.jar
 
-# If you only want to ignore the one project's target:
+
 BinaryCalculator/target/
+
 
 
